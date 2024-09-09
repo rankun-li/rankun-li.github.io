@@ -10,7 +10,7 @@ I am a second-year graduate student in Control Science and Engineering at the [S
 # Publications
 ## 2024
 <div style="display: flex; align-items: center;">
-    <img src="../images/2024corl.png" width="200" style="float: left; margin-right: 20px;">
+    <img src="../images/2024corl.png" width="300" style="float: left; margin-right: 20px;">
     <div style="display: block;">
       <strong>Multi-Brain Collaborative Control for Quadruped Robots</strong>
       <br style="font-size: 0.8em;">Hang Liu, Yi Cheng, <strong style="color: blue; font-size: 0.8em;">Rankun Li</strong>, Xiaowen Hu, Linqi Ye, Houde Liu
@@ -21,7 +21,7 @@ I am a second-year graduate student in Control Science and Engineering at the [S
 
 ## 2023
 <div style="display: flex; align-items: center;">
-    <img src="../images/2023oncon.png" width="200" style="float: left; margin-right: 20px;">
+    <img src="../images/oncon.png" width="300" style="float: left; margin-right: 20px;">
     <div style="display: block;">
       <strong style="white-space: nowrap;">High-precision Trajectory Tracking Control for Uncertain Nonminimum Phase Hypersonic Vehicles</strong>
       <br style="font-size: 0.8em;"><strong style="color: blue; font-size: 0.8em;">Rankun Li</strong>, Ting Wu, Linqi Ye
