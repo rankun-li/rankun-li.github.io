@@ -29,10 +29,10 @@ I am a beginner in reinforcement learning for legged/humanoid robots.
 <div style="display: flex; align-items: center;">
     <img src="../images/2023oncon.png" width="200" style="float: left; margin-right: 20px;">
     <div style="display: block;">
+      <strong>High-precision Trajectory Tracking Control for Uncertain Nonminimum Phase Hypersonic Vehicles</strong>
+      <br>Rankun Li, Ting Wu, Linqi Ye
+      <br>ONCON, 2023
+      <br>[PDF](../files/CORL24.pdf) | [web](https://quad-mbc.github.io/)
     </div>
-
-- **High-precision Trajectory Tracking Control for Uncertain Nonminimum Phase Hypersonic Vehicles**
-- Rankun Li, Ting Wu, Linqi Ye
-- ONCON '23
-- Links: [PDF](link_to_pdf) | [Video](link_to_video)
 </div>
+
