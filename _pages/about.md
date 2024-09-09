@@ -10,13 +10,7 @@ I am a second-year graduate student in Control Science and Engineering at the [S
 
 I am a beginner in reinforcement learning for legged/humanoid robots.
 
----
-permalink: /publications/
-title: "Publications"
-author_profile: true
----
-
-## Publications
+# Publications
 
 ### Journal Articles
 
