@@ -18,8 +18,8 @@ I am a beginner in reinforcement learning for legged/humanoid robots.
 - **Multi-Brain Collaborative Control for Quadruped Robots**
   - Hang Liu, Yi Cheng, Rankun Li, Xiaowen Hu, Linqi Ye, Houde Liu
   - CoRL, 2024 , submitted
+  - <div style="float: left; margin-right: 10px;"><img src="link_to_image" alt="Multi-Brain Collaborative Control" width="200"></div>
   - Links: [PDF](link_to_pdf) | [Video](link_to_video) | [Project Page](link_to_project_page)
-  - <img src="link_to_image"  width="200">
 
 ### 2023
 - **High-precision Trajectory Tracking Control for Uncertain Nonminimum Phase Hypersonic Vehicles**
