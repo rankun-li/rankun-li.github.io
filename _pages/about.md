@@ -17,12 +17,11 @@ I am a beginner in reinforcement learning for legged/humanoid robots.
 <div style="display: flex; align-items: center;">
     <img src="../images/2024corl.png" alt="Multi-Brain Collaborative Control" width="200" style="float: left; margin-right: 20px;">
     <div style="display: block;">
+      <strong>Multi-Brain Collaborative Control for Quadruped Robots</strong>
+      <br>Hang Liu, Yi Cheng, Rankun Li, Xiaowen Hu, Linqi Ye, Houde Liu
+      <br>CoRL, 2024, submitted
+      <br>[PDF](../files/CORL24.pdf) | [web](https://quad-mbc.github.io/)
     </div>
-
-- **Multi-Brain Collaborative Control for Quadruped Robots**
-- Hang Liu, Yi Cheng, Rankun Li, Xiaowen Hu, Linqi Ye, Houde Liu
-- CoRL, 2024 , submitted
-- [PDF](../files/CORL24.pdf) | [web](https://quad-mbc.github.io/) 
 </div>
 
 ## 2023
