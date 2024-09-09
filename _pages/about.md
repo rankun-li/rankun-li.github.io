@@ -14,7 +14,7 @@ I am a beginner in reinforcement learning for legged/humanoid robots.
 # Publications
 ## 2024
 <div style="display: flex; align-items: center;">
-    <img src="../images/2024corl.png" alt="Multi-Brain Collaborative Control" width="200" style="float: left; margin-right: 20px;">
+    <img src="../images/2024corl.png" width="200" style="float: left; margin-right: 20px;">
     <div style="display: block;">
       <strong>Multi-Brain Collaborative Control for Quadruped Robots</strong>
       <br>Hang Liu, Yi Cheng, Rankun Li, Xiaowen Hu, Linqi Ye, Houde Liu
@@ -23,17 +23,14 @@ I am a beginner in reinforcement learning for legged/humanoid robots.
     </div>
 </div>
 
-[PDF](/files/CoRL24.pdf)  [web](https://quad-mbc.github.io/)
-
 ## 2023
-
 <div style="display: flex; align-items: center;">
     <img src="../images/2023oncon.png" width="200" style="float: left; margin-right: 20px;">
     <div style="display: block;">
       <strong>High-precision Trajectory Tracking Control for Uncertain Nonminimum Phase Hypersonic Vehicles</strong>
       <br>Rankun Li, Ting Wu, Linqi Ye
       <br>ONCON, 2023
-      <br>[PDF](/files/ONCON.pdf)
+      <br><a href="/files/ONCON.pdf" target="_blank">PDF</a> 
     </div>
 </div>
 
