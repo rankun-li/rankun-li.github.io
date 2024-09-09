@@ -23,7 +23,7 @@ I am a beginner in reinforcement learning for legged/humanoid robots.
     </div>
 </div>
 
-[PDF](/files/CoRL24.pdf) | [web](https://quad-mbc.github.io/)
+[PDF](/files/CoRL24.pdf)  [web](https://quad-mbc.github.io/)
 
 ## 2023
 
@@ -37,4 +37,3 @@ I am a beginner in reinforcement learning for legged/humanoid robots.
     </div>
 </div>
 
-[PDF](/files/ONCON.pdf)
