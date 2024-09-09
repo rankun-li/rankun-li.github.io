@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year graduate student in Control Science and Engineering at the [School of Future Technology](https://ai.shu.edu.cn/), [Shanghai University](https://www.shu.edu.cn/). My supervisor is Professor [Linqi Ye](https://linqi-ye.github.io/). I completed my Bachelor's degree in Electronic and Information Engineering at the [School of Communication and Information Engineering](https://scie.shu.edu.cn/), Shanghai University. 
-
-I am a beginner in reinforcement learning for legged/humanoid robots.
+I am a second-year graduate student in Control Science and Engineering at the [School of Future Technology](https://ai.shu.edu.cn/), [Shanghai University](https://www.shu.edu.cn/). My supervisor is Professor [Linqi Ye](https://linqi-ye.github.io/). I completed my Bachelor's degree in Electronic and Information Engineering at the [School of Communication and Information Engineering](https://scie.shu.edu.cn/), Shanghai University. I am a beginner in reinforcement learning for legged/humanoid robots.
 
 # Publications
 ## 2024
@@ -17,7 +15,7 @@ I am a beginner in reinforcement learning for legged/humanoid robots.
     <img src="../images/2024corl.png" width="200" style="float: left; margin-right: 20px;">
     <div style="display: block;">
       <strong>Multi-Brain Collaborative Control for Quadruped Robots</strong>
-      <br>Hang Liu, Yi Cheng, Rankun Li, Xiaowen Hu, Linqi Ye, Houde Liu
+      <br>Hang Liu, Yi Cheng, <strong>Rankun Li</strong>, Xiaowen Hu, Linqi Ye, Houde Liu
       <br>CoRL, 2024, submitted
       <br><a href="/files/CoRL24.pdf" target="_blank">PDF</a> | <a href="https://quad-mbc.github.io/" target="_blank">web</a>
     </div>
@@ -28,7 +26,7 @@ I am a beginner in reinforcement learning for legged/humanoid robots.
     <img src="../images/2023oncon.png" width="200" style="float: left; margin-right: 20px;">
     <div style="display: block;">
       <strong>High-precision Trajectory Tracking Control for Uncertain Nonminimum Phase Hypersonic Vehicles</strong>
-      <br>Rankun Li, Ting Wu, Linqi Ye
+      <br><strong>Rankun Li</strong>, Ting Wu, Linqi Ye
       <br>ONCON, 2023
       <br><a href="/files/ONCON.pdf" target="_blank">PDF</a> 
     </div>
