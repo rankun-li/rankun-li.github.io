@@ -13,7 +13,7 @@ I am a second-year graduate student in Control Science and Engineering at the [S
     <img src="../images/2024corl.png" width="200" style="float: left; margin-right: 20px;">
     <div style="font-size: 0.8em; display: block;">
       <strong style="font-size: 1em;">Multi-Brain Collaborative Control for Quadruped Robots</strong>
-      <br>Hang Liu, Yi Cheng, <strong style="color: blue;">Rankun Li</strong>, Xiaowen Hu, Linqi Ye, Houde Liu
+      <br>Hang Liu, Yi Cheng, <strong style="color: #add8e6;">Rankun Li</strong>, Xiaowen Hu, Linqi Ye, Houde Liu
       <br>CoRL, 2024, submitted
       <br><a href="/files/CoRL24.pdf" target="_blank">PDF</a> | <a href="https://quad-mbc.github.io/" target="_blank">web</a>
     </div>
@@ -24,11 +24,12 @@ I am a second-year graduate student in Control Science and Engineering at the [S
     <img src="../images/oncon.png" width="200" style="float: left; margin-right: 20px;">
     <div style="font-size: 0.8em; display: block;">
       <strong style="white-space: nowrap; font-size: 1em;">High-precision Trajectory Tracking Control for Uncertain Nonminimum Phase Hypersonic Vehicles</strong>
-      <br><strong style="color: blue;">Rankun Li</strong>, Ting Wu, Linqi Ye
+      <br><strong style="color: #add8e6;">Rankun Li</strong>, Ting Wu, Linqi Ye
       <br>ONCON, 2023
       <br><a href="/files/ONCON.pdf" target="_blank">PDF</a> 
     </div>
 </div>
+
 
 
 
