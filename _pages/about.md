@@ -3,22 +3,18 @@ I am a second-year graduate student in Control Science and Engineering at the [S
 
 I am a beginner in reinforcement learning for legged/humanoid robots.
 
-# Publications
+## Publications
 
-### Journal Articles
+### 2024
 
-| | |
-|---|---|
-| **Yi Cheng**, Co-authors. (Year). "Title of the Article," *Journal Name*, vol. xx, no. x, pp. xx-xx. [DOI](https://doi.org/doi_link) \| [pdf](#) \| [video](#) | Description of the publication |
+- **Multi-Brain Collaborative Control for Quadruped Robots**
+  - Hang Liu, Yi Cheng, Rankun Li, Xiaowen Hu, Linqi Ye, Houde Liu
+  - CoRL, 2024 , submitted
+  - Links: [PDF](link_to_pdf) | [Video](link_to_video) | [Project Page](link_to_project_page)
+  - <img src="link_to_image"  width="200">
 
-### Conference Papers
-
-| | |
-|---|---|
-| **Yi Cheng**, Co-authors. (Year). "Title of the Conference Paper," in *Proceedings of the Conference Name*, pp. xx-xx. [DOI](https://doi.org/doi_link) \| [pdf](#) \| [video](#) | Description of the publication |
-
-### Other Works
-
-| | |
-|---|---|
-| **Yi Cheng**, Co-authors. (Year). "Title of the Work," *Name of the Publication*, vol. xx, no. x, pp. xx-xx. [DOI](https://doi.org/doi_link) \| [pdf](#) \| [video](#) | Description of the publication |
+### 2023
+- **High-precision Trajectory Tracking Control for Uncertain Nonminimum Phase Hypersonic Vehicles**
+  - Rankun Li, Ting Wu, Linqi Ye
+  - ONCON '23
+  - Links: [PDF](link_to_pdf) | [Video](link_to_video)
