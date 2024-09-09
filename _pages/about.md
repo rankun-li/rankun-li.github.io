@@ -10,14 +10,7 @@ redirect_from:
   <p style="line-height: 1.6; margin: 0; font-size: 1em;">I am a second-year graduate student in Control Science and Engineering at the <a href="https://ai.shu.edu.cn/">School of Future Technology</a>, <a href="https://www.shu.edu.cn/">Shanghai University</a>. My supervisor is Professor <a href="https://linqi-ye.github.io/">Linqi Ye</a>. I completed my Bachelor's degree in Electronic and Information Engineering at the <a href="https://scie.shu.edu.cn/">School of Communication and Information Engineering</a>, Shanghai University. I am a beginner in reinforcement learning for legged/humanoid robots.</p>
 </div>
 
----
-permalink: /
-title: "Publications"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+# Publications
 
 ## 2024
 <div style="display: flex; align-items: center;">
