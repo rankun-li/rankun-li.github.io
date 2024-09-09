@@ -13,7 +13,6 @@ I am a beginner in reinforcement learning for legged/humanoid robots.
 
 # Publications
 ## 2024
-[PDF](/files/CoRL24.pdf) | [web](https://quad-mbc.github.io/)
 <div style="display: flex; align-items: center;">
     <img src="../images/2024corl.png" alt="Multi-Brain Collaborative Control" width="200" style="float: left; margin-right: 20px;">
     <div style="display: block;">
@@ -24,6 +23,7 @@ I am a beginner in reinforcement learning for legged/humanoid robots.
     </div>
 </div>
 
+[PDF](/files/CoRL24.pdf) | [web](https://quad-mbc.github.io/)
 
 ## 2023
 
@@ -37,3 +37,4 @@ I am a beginner in reinforcement learning for legged/humanoid robots.
     </div>
 </div>
 
+[PDF](/files/ONCON.pdf)
