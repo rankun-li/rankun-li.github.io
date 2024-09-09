@@ -19,7 +19,7 @@ I am a beginner in reinforcement learning for legged/humanoid robots.
       <strong>Multi-Brain Collaborative Control for Quadruped Robots</strong>
       <br>Hang Liu, Yi Cheng, Rankun Li, Xiaowen Hu, Linqi Ye, Houde Liu
       <br>CoRL, 2024, submitted
-      <br>[PDF](/files/CoRL24.pdf) | [web](https://quad-mbc.github.io/)
+      <br><a href="/files/CoRL24.pdf" target="_blank">PDF</a> | <a href="https://quad-mbc.github.io/" target="_blank">web</a>
     </div>
 </div>
 
