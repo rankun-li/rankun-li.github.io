@@ -15,14 +15,13 @@ I am a beginner in reinforcement learning for legged/humanoid robots.
 
 ### 2024
 
-- **Multi-Brain Collaborative Control for Quadruped Robots**
-- <div style="display: flex; align-items: center; justify-content: flex-start;">
+**Multi-Brain Collaborative Control for Quadruped Robots**
+<div style="display: flex; align-items: center; justify-content: flex-start;">
     <img src="../images/2024corl.png" alt="Multi-Brain Collaborative Control" width="200">
   </div>
-  - Hang Liu, Yi Cheng, Rankun Li, Xiaowen Hu, Linqi Ye, Houde Liu
-  - CoRL, 2024 , submitted
-  - <div style="float: left; margin-right: 10px;"><img src="../images/2024corl.png" alt="Multi-Brain Collaborative Control" width="200"></div>
-  - [PDF](../assets/CORL24.pdf) | [web](https://quad-mbc.github.io/) 
+Hang Liu, Yi Cheng, Rankun Li, Xiaowen Hu, Linqi Ye, Houde Liu
+CoRL, 2024 , submitted
+[PDF](../files/CORL24.pdf) | [web](https://quad-mbc.github.io/) 
 
 ### 2023
 - **High-precision Trajectory Tracking Control for Uncertain Nonminimum Phase Hypersonic Vehicles**
