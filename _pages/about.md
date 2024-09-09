@@ -23,9 +23,9 @@ I am a second-year graduate student in Control Science and Engineering at the [S
 <div style="display: flex; align-items: center;">
     <img src="../images/2023oncon.png" width="200" style="float: left; margin-right: 20px;">
     <div style="display: block;">
-      <strong style="white-space: nowrap; font-size: 1.2em;">High-precision Trajectory Tracking Control for Uncertain Nonminimum Phase Hypersonic Vehicles</strong>
-      <br><strong style="color: blue; font-size: 1em;">Rankun Li</strong>, Ting Wu, Linqi Ye
-      <br style="font-size: 0.9em;">ONCON, 2023
+      <strong style="white-space: nowrap; font-size: 1em;">High-precision Trajectory Tracking Control for Uncertain Nonminimum Phase Hypersonic Vehicles</strong>
+      <br><strong style="color: blue; font-size: 0.6em;">Rankun Li</strong>, Ting Wu, Linqi Ye
+      <br style="font-size: 0.6em;">ONCON, 2023
       <br><a href="/files/ONCON.pdf" target="_blank">PDF</a> 
     </div>
 </div>
