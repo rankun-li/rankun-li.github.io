@@ -6,16 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="display: flex; align-items: center; flex-direction: column; height: 100%;">
-  <p style="line-height: 1.6; margin: 0; font-size: 1em; font-family: Arial, sans-serif;">I am a second-year graduate student in Control Science and Engineering at the <a href="https://ai.shu.edu.cn/" style="color: #0000EE; text-decoration: none;">School of Future Technology</a>, <a href="https://www.shu.edu.cn/" style="color: #0000EE; text-decoration: none;">Shanghai University</a>. My supervisor is Professor <a href="https://linqi-ye.github.io/" style="color: #0000EE; text-decoration: none;">Linqi Ye</a>. I completed my Bachelor's degree in Electronic and Information Engineering at the <a href="https://scie.shu.edu.cn/" style="color: #0000EE; text-decoration: none;">School of Communication and Information Engineering</a>, Shanghai University. I am a beginner in reinforcement learning for legged/humanoid robots.</p>
+<div style="display: flex; align-items: center; flex-direction: column; height: 100%; font-family: Helvetica, Arial, sans-serif;">
+  <p style="line-height: 1.6; margin: 0; font-size: 1em;">I am a second-year graduate student in Control Science and Engineering at the <a href="https://ai.shu.edu.cn/" style="color: #0000EE; text-decoration: none;">School of Future Technology</a>, <a href="https://www.shu.edu.cn/" style="color: #0000EE; text-decoration: none;">Shanghai University</a>. My supervisor is Professor <a href="https://linqi-ye.github.io/" style="color: #0000EE; text-decoration: none;">Linqi Ye</a>. I completed my Bachelor's degree in Electronic and Information Engineering at the <a href="https://scie.shu.edu.cn/" style="color: #0000EE; text-decoration: none;">School of Communication and Information Engineering</a>, Shanghai University. I am a beginner in reinforcement learning for legged/humanoid robots.</p>
 </div>
 
-<h1 style="font-family: Arial, sans-serif; font-size: 1.5em;">Publications</h1>
+<h1 style="font-family: Helvetica, Arial, sans-serif; font-size: 1.5em;">Publications</h1>
 
-<h2 style="font-family: Arial, sans-serif; font-size: 1.3em;">2024</h2>
+<h2 style="font-family: Helvetica, Arial, sans-serif; font-size: 1.3em;">2024</h2>
 <div style="display: flex; align-items: center;">
     <img src="../images/2024corl.png" width="200" style="float: left; margin-right: 20px;">
-    <div style="font-size: 0.9em; display: block; font-family: Arial, sans-serif;">
+    <div style="font-size: 0.9em; display: block; font-family: Helvetica, Arial, sans-serif;">
       <strong style="font-size: 1em;">Multi-Brain Collaborative Control for Quadruped Robots</strong>
       <br>Hang Liu, Yi Cheng, <strong style="color: #add8e6;">Rankun Li</strong>, Xiaowen Hu, Linqi Ye, Houde Liu
       <br>CoRL, 2024, submitted
@@ -23,10 +23,10 @@ redirect_from:
     </div>
 </div>
 
-<h2 style="font-family: Arial, sans-serif; font-size: 1.3em;">2023</h2>
+<h2 style="font-family: Helvetica, Arial, sans-serif; font-size: 1.3em;">2023</h2>
 <div style="display: flex; align-items: center;">
     <img src="../images/oncon.png" width="200" style="float: left; margin-right: 20px;">
-    <div style="font-size: 0.9em; display: block; font-family: Arial, sans-serif;">
+    <div style="font-size: 0.9em; display: block; font-family: Helvetica, Arial, sans-serif;">
       <strong style="white-space: nowrap; font-size: 1em;">High-precision Trajectory Tracking Control for Uncertain Nonminimum Phase Hypersonic Vehicles</strong>
       <br><strong style="color: #add8e6;">Rankun Li</strong>, Ting Wu, Linqi Ye
       <br>ONCON, 2023
