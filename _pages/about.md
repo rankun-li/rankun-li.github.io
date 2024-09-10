@@ -22,7 +22,7 @@ redirect_from:
 
 # Publications
 <div style="font-family: 'Titillium Web', sans-serif; font-weight: 600;">
-  <h1 style="font-size: 2em;">Publications</h1>
+  <h1 style="font-size: 1em;">Publications</h1>
 </div>
 
 ## 2024
