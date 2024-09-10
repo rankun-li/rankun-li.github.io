@@ -14,6 +14,18 @@ redirect_from:
 </div>
 
 <style>
+  body {
+    color: #333333; /* 主要文字颜色加深 */
+  }
+  a {
+    color: #1a5fb4; /* 链接颜色加深 */
+  }
+  strong {
+    color: #1a3e72; /* 加粗文字颜色加深 */
+  }
+  strong strong {
+    color: #d9480f; /* 特殊强调的文字颜色加深 */
+  }
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Titillium Web', sans-serif;
     font-weight: 600;
@@ -23,8 +35,6 @@ redirect_from:
 <div style="margin-top: 20px;"></div>
 
 # Publications
-<div style="margin-top: 10px;"></div>
-
 ## 2024
 <div style="display: flex; align-items: center;margin-top: 10px;">
     <img src="../images/2024corl.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
