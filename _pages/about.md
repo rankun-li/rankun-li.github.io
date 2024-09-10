@@ -19,10 +19,7 @@ redirect_from:
     font-weight: 600;
   }
 </style>
-
-<div style="font-family: 'Titillium Web', sans-serif; font-weight: 600;">
-  <h1 style="font-size: 2em;">Publications</h1>
-</div>
+# Publications
 
 ## 2024
 <div style="display: flex; align-items: center;">
