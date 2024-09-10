@@ -23,7 +23,7 @@ redirect_from:
 <div style="margin-top: 20px;"></div>
 
 # Publications
-
+<div style="margin-top: 10px;"></div>
 ## 2024
 <div style="display: flex; align-items: center;margin-top: 10px;">
     <img src="../images/2024corl.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
