@@ -1,9 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>About me</title>
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+<link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,600,400italic,600italic,300,300italic' rel='stylesheet' type='text/css'>
+
+<div style="display: flex; align-items: center; flex-direction: column; height: 100%;">
+  <p style="line-height: 1.6; margin: 0; font-family: 'Titillium Web', sans-serif; font-size: 0.9em;">I am a second-year graduate student in Control Science and Engineering at the <a href="https://ai.shu.edu.cn/">School of Future Technology</a>, <a href="https://www.shu.edu.cn/">Shanghai University</a>. My supervisor is Professor <a href="https://linqi-ye.github.io/">Linqi Ye</a>. I completed my Bachelor's degree in Electronic and Information Engineering at the <a href="https://scie.shu.edu.cn/">School of Communication and Information Engineering</a>, Shanghai University.</p>
+</div>
+
+<style>
+  .left-aligned {
+    line-height: 1.6;
+    margin-top: 10px;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 0.6em;
+    text-align: left;
+  }
+</style>
+
+<p class="left-aligned">I am a beginner in reinforcement learning for legged/humanoid robots.</p>
+
+
 <style>
   body {
     color: #333333; /* 主要文字颜色加深 */
@@ -21,20 +43,7 @@
     font-family: 'Titillium Web', sans-serif;
     font-weight: 600;
   }
-  .about-text {
-    line-height: 1.6;
-    margin-top: 10px;
-    font-family: 'Titillium Web', sans-serif;
-    font-size: 0.9em;
-    text-align: left;
-  }
 </style>
-</head>
-<body>
-<div style="display: flex; align-items: center; flex-direction: column; height: 100%;">
-  <p style="line-height: 1.6; margin: 0; font-family: 'Titillium Web', sans-serif; font-size: 0.9em;">I am a second-year graduate student in Control Science and Engineering at the <a href="https://ai.shu.edu.cn/">School of Future Technology</a>, <a href="https://www.shu.edu.cn/">Shanghai University</a>. My supervisor is Professor <a href="https://linqi-ye.github.io/">Linqi Ye</a>. I completed my Bachelor's degree in Electronic and Information Engineering at the <a href="https://scie.shu.edu.cn/">School of Communication and Information Engineering</a>, Shanghai University.</p>
-  <p class="about-text">I am a beginner in reinforcement learning for legged/humanoid robots.</p>
-</div>
 
 <div style="margin-top: 50px;"></div>
 
@@ -60,5 +69,3 @@
       <br><a href="/files/ONCON.pdf" target="_blank">PDF</a> 
     </div>
 </div>
-</body>
-</html>
