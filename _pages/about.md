@@ -20,13 +20,12 @@ redirect_from:
   }
 </style>
 
-<div style="margin-top: 50px;"></div>
+<div style="margin-top: 30px;"></div>
 
 # Publications
 
-
 ## 2024
-<div style="display: flex; align-items: center; margin-top: 10px;">
+<div style="display: flex; align-items: center;">
     <img src="../images/2024corl.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
       <strong style="font-size: 1em; color: #1772d0;">Multi-Brain Collaborative Control for Quadruped Robots</strong>
