@@ -32,7 +32,7 @@ redirect_from:
   }
 </style>
 
-<div style="margin-top: 20px;"></div>
+<div style="margin-top: 30px;"></div>
 
 # Publications
 ## 2024
