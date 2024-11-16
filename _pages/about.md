@@ -38,7 +38,7 @@ redirect_from:
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
       <strong style="font-size: 1em; color: #1772d0;">Multi-Brain Collaborative Control for Quadruped Robots</strong>
       <br>Hang Liu, Yi Cheng, <strong style="font-weight: 600; color: #f09228;">Rankun Li</strong>, Xiaowen Hu, Linqi Ye, Houde Liu
-      <br>CoRL, 2024, submitted
+      <br>CoRL, 2024, accepted
       <br><a href="/files/CoRL24.pdf" target="_blank">PDF</a> | <a href="https://quad-mbc.github.io/" target="_blank">Web</a>
     </div>
 </div>
@@ -49,7 +49,7 @@ redirect_from:
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
       <strong style="font-size: 1em; color: #1772d0;">High-precision Trajectory Tracking Control for Uncertain Nonminimum Phase Hypersonic Vehicles</strong>
       <br><strong style="font-weight: 600; color: #f09228;">Rankun Li</strong>, Ting Wu, Linqi Ye
-      <br>ONCON, 2023, submitted
+      <br>ONCON, 2023, accepted
       <br><a href="/files/ONCON.pdf" target="_blank">PDF</a> 
     </div>
 </div>
