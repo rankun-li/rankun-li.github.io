@@ -34,7 +34,7 @@ redirect_from:
 # Publications
 ## 2024
 <div style="display: flex; align-items: center;margin-top: 10px;">
-    <img src="../images/zhongguancun.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
+    <img src="../images/zhongguancun2.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
       <strong style="font-size: 1em; color: #1772d0;">Second Prize in Humanoid Robot Racing Competition</strong>
       <br>Linqi Ye, Qingdu Li, <strong style="font-weight: 600; color: #f09228;">Rankun Li</strong>, Xiaowen Hu, Yuhang Xie
