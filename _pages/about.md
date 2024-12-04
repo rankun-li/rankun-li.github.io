@@ -34,6 +34,16 @@ redirect_from:
 # Publications
 ## 2024
 <div style="display: flex; align-items: center;margin-top: 10px;">
+    <img src="../images/颁奖.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
+    <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
+      <strong style="font-size: 1em; color: #1772d0;">Second Prize in Humanoid Robot Racing Competition</strong>
+      <br>Linqi Ye, Qingdu Li, <strong style="font-weight: 600; color: #f09228;">Rankun Li</strong>, Xiaowen Hu, Yuhang Xie
+      <br>ZHONGGUANCUN BIOMIMETIC ROBOT CONFERENCE, SHU-USST Hina Double Star Team, 2024 
+      <br><a href="../images/中关村竞速.png" target="_blank">Prize</a> | <a href="https://quad-mbc.github.io/" target="_blank">Team</a>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center;margin-top: 10px;">
     <img src="../images/2024corl.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
       <strong style="font-size: 1em; color: #1772d0;">Multi-Brain Collaborative Control for Quadruped Robots</strong>
