@@ -34,12 +34,12 @@ redirect_from:
 # Publications
 ## 2025
 <div style="display: flex; align-items: center;margin-top: 10px;">
-    <img src="../images/zhongguancun2.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
+    <img src="../images/gewu.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
       <strong style="font-size: 1em; color: #1772d0;">Unity RL Playground: A Versatile Reinforcement Learning Framework for Mobile Robots</strong>
       <br>Linqi Ye, <strong style="font-weight: 600; color: #f09228;">Rankun Li</strong>, Xiaowen Hu, Jiayi Li, Boyang Xing, Yan Peng, Bin Liang
       <br>IROS, 2025, submited
-      <br><a href="/images/prize.png" target="_blank">Prize</a> | <a href="/images/team.png" target="_blank">Team</a>
+      <br><a href="/files/iros25.pdf" target="_blank">PDF</a> 
     </div>
 </div>
 
