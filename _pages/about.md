@@ -39,7 +39,7 @@ redirect_from:
       <strong style="font-size: 1em; color: #1772d0;">Unity RL Playground: A Versatile Reinforcement Learning Framework for Mobile Robots</strong>
       <br>Linqi Ye, <strong style="font-weight: 600; color: #f09228;">Rankun Li</strong>, Xiaowen Hu, Jiayi Li, Boyang Xing, Yan Peng, Bin Liang
       <br>IROS, 2025, submited
-      <br><a href="/files/iros25.pdf" target="_blank">PDF</a> 
+      <br><a href="/files/iros25.pdf" target="_blank">PDF</a> | <a href="https://github.com/loongOpen/Unity-RL-Playground" target="_blank">Web</a>
     </div>
 </div>
 
