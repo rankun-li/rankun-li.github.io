@@ -57,7 +57,7 @@ redirect_from:
 
 
 # Publications
-<div style="height: 30px;"></div>
+<div style="height: -30px;"></div>
 ## 2025
 <div style="display: flex; align-items: center;margin-top: 10px;">
     <img src="../images/gewu.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
