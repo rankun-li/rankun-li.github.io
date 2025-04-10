@@ -33,7 +33,6 @@ redirect_from:
 
 <div style="margin-top: 30px;"></div>
 
-
 # Internships
 <div style="display: flex; align-items: center;margin-top: 10px;">
     <img src="../images/cowarobot.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
@@ -43,7 +42,7 @@ redirect_from:
       <br>2025.4--Now | <a href="https://www.cowarobot.com/" target="_blank">Web</a>
     </div>
 </div>
-
+<div style="margin-top: 10px;"></div>
 <div style="display: flex; align-items: center;margin-top: 10px;">
     <img src="../images/droid.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
@@ -52,12 +51,9 @@ redirect_from:
       <br>2024.12--2025.3 | <a href="https://droidup.com/" target="_blank">Web</a>
     </div>
 </div>
-
 <div style="height: 30px;"></div>
 
-
 # Publications
-<div style="height: -30px;"></div>
 ## 2025
 <div style="display: flex; align-items: center;margin-top: 10px;">
     <img src="../images/gewu.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
