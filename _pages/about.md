@@ -33,26 +33,6 @@ redirect_from:
 
 <div style="margin-top: 30px;"></div>
 
-# Internships
-<div style="display: flex; align-items: center;margin-top: 10px;">
-    <img src="../images/cowarobot.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
-    <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
-      <strong style="font-size: 1em; color: #1772d0;">COWAROBOT Co., Ltd.</strong>
-      <br>Embodied Intelligent Robot Engineer
-      <br>2025.4--Now | <a href="https://www.cowarobot.com/" target="_blank">Web</a>
-    </div>
-</div>
-<div style="margin-top: 10px;"></div>
-<div style="display: flex; align-items: center;margin-top: 10px;">
-    <img src="../images/droid.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
-    <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
-      <strong style="font-size: 1em; color: #1772d0;">Shanghai Droid Technology Co., Ltd.</strong>
-      <br>Bipedal Robot Motion Control Algorithm Engineer
-      <br>2024.12--2025.3 | <a href="https://droidup.com/" target="_blank">Web</a>
-    </div>
-</div>
-<div style="height: 30px;"></div>
-
 # Publications
 ## 2025
 <div style="display: flex; align-items: center;margin-top: 10px;">
@@ -94,5 +74,24 @@ redirect_from:
       <br><strong style="font-weight: 600; color: #f09228;">Rankun Li</strong>, Ting Wu, Linqi Ye
       <br>ONCON, 2023, accepted
       <br><a href="/files/ONCON.pdf" target="_blank">PDF</a> 
+    </div>
+</div>
+
+# Internships
+<div style="display: flex; align-items: center;margin-top: 10px;">
+    <img src="../images/cowarobot.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
+    <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
+      <strong style="font-size: 1em; color: #1772d0;">COWAROBOT Co., Ltd.</strong>
+      <br>Embodied Intelligent Robot Engineer
+      <br>2025.4--Now | <a href="https://www.cowarobot.com/" target="_blank">Web</a>
+    </div>
+</div>
+<div style="margin-top: 10px;"></div>
+<div style="display: flex; align-items: center;margin-top: 10px;">
+    <img src="../images/droid.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
+    <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
+      <strong style="font-size: 1em; color: #1772d0;">Shanghai Droid Technology Co., Ltd.</strong>
+      <br>Bipedal Robot Motion Control Algorithm Engineer
+      <br>2024.12--2025.3 | <a href="https://droidup.com/" target="_blank">Web</a>
     </div>
 </div>
