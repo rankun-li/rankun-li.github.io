@@ -39,8 +39,8 @@ redirect_from:
     <img src="../images/cowarobot.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
       <strong style="font-size: 1em; color: #1772d0;">COWAROBOT Co., Ltd.</strong>
-      <br>2025.4--Now
-      <br> <a href="https://www.cowarobot.com/" target="_blank">Web</a>
+      <br>Embodied Intelligent Robot Engineer
+      <br>2025.4--Now | <a href="https://www.cowarobot.com/" target="_blank">Web</a>
     </div>
 </div>
 
@@ -48,8 +48,8 @@ redirect_from:
     <img src="../images/droid.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
       <strong style="font-size: 1em; color: #1772d0;">Shanghai Droid Technology Co., Ltd.</strong>
-      <br>2024.12--2025.3
-      <br> <a href="https://droidup.com/" target="_blank">Web</a>
+      <br>Bipedal Robot Motion Control Algorithm Engineer
+      <br>2024.12--2025.3 | <a href="https://droidup.com/" target="_blank">Web</a>
     </div>
 </div>
 
