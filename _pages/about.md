@@ -40,7 +40,7 @@ redirect_from:
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
       <strong style="font-size: 1em; color: #1772d0;">COWAROBOT Co., Ltd.</strong>
       <br>2025.4--Now
-      <br> <a href="https://www.cowarobot.com/?lang=en" target="_blank">Official Website</a>
+      <br> <a href="https://www.cowarobot.com/?lang=en" target="_blank">Web</a>
     </div>
 </div>
 
@@ -49,7 +49,7 @@ redirect_from:
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
       <strong style="font-size: 1em; color: #1772d0;">Shanghai Droid Technology Co., Ltd.</strong>
       <br>2024.12--2025.3
-      <br> <a href="https://droidup.com/" target="_blank">Official Website</a>
+      <br> <a href="https://droidup.com/" target="_blank">Web</a>
     </div>
 </div>
 
