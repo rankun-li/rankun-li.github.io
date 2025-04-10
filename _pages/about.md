@@ -77,6 +77,8 @@ redirect_from:
     </div>
 </div>
 
+<div style="margin-top: 30px;"></div>
+
 # Internships
 <div style="display: flex; align-items: center;margin-top: 10px;">
     <img src="../images/cowarobot.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
