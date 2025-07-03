@@ -40,7 +40,7 @@ redirect_from:
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
       <strong style="font-size: 1em; color: #1772d0;">From Sim-to-Real to Learn-in-Real: Real-world Online Learning for Humanoid Robots</strong>
       <br><strong style="font-weight: 600; color: #f09228;">Rankun Li</strong>, Yuhang Xie, Linqing Zhu, Linqi Ye, Qingdu Li, Yan Peng
-      <br>ICIRA, 2025
+      <br>ICIRA, 2025, accepted
       <br><a href="/files/ICIRA2025.pdf" target="_blank">PDF</a>
     </div>
 </div>
