@@ -90,7 +90,6 @@ redirect_from:
 <div style="margin-top: 30px;"></div>
 
 # Internships
-## 2025
 <div style="display: flex; align-items: center;margin-top: 10px;">
     <img src="../images/cowarobot.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
@@ -100,7 +99,6 @@ redirect_from:
     </div>
 </div>
 
-## 2024
 <div style="display: flex; align-items: center;margin-top: 10px;">
     <img src="../images/droid.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
