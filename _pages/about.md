@@ -38,9 +38,19 @@ redirect_from:
 <div style="display: flex; align-items: center;margin-top: 10px;">
     <img src="../images/gewu.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
+      <strong style="font-size: 1em; color: #1772d0;">From Sim-to-Real to Learn-in-Real: Real-world Online Learning for Humanoid Robots</strong>
+      <br><strong style="font-weight: 600; color: #f09228;">Rankun Li</strong>, Yuhang Xie, Linqing Zhu, Linqi Ye, Qingdu Li, Yan Peng
+      <br>ICIRA, 2025
+      <br><a href="/files/icira25.pdf" target="_blank">PDF</a>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center;margin-top: 10px;">
+    <img src="../images/gewu.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
+    <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
       <strong style="font-size: 1em; color: #1772d0;">Unity RL Playground: A Versatile Reinforcement Learning Framework for Mobile Robots</strong>
       <br>Linqi Ye, <strong style="font-weight: 600; color: #f09228;">Rankun Li</strong>, Xiaowen Hu, Jiayi Li, Boyang Xing, Yan Peng, Bin Liang
-      <br>IROS, 2025, submited
+      <br>arXiv, 2025
       <br><a href="/files/iros25.pdf" target="_blank">PDF</a> | <a href="https://github.com/loongOpen/Unity-RL-Playground" target="_blank">Code</a>
     </div>
 </div>
