@@ -36,7 +36,7 @@ redirect_from:
 # Publications
 ## 2026
 <div style="display: flex; align-items: center;margin-top: 10px;">
-    <img src="../images/ICRA.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
+    <img src="../images/ICRA2026.png" width="200" style="float: left; margin-right: 20px; border-radius: 15px;">
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
       <strong style="font-size: 1em; color: #1772d0;">CTBC: Contact-Triggered Blind Climbing for Wheeled Bipedal Robots with Instruction Learning and Reinforcement Learning</strong>
       <br><strong style="font-weight: 600; color: #f09228;">Rankun Li</strong>, Hao Wang, Qi Li, Zhuo Han, Yifei Chu, Linqi Ye, Wende Xie, Wenlong Liao
