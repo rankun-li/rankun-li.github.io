@@ -61,7 +61,7 @@ redirect_from:
       <strong style="font-size: 1em; color: #1772d0;">Learning Decoupled Training Methods for High-Inertia Wheel-Legged Robot to Move and Grasp</strong>
       <br>Shiyu Zhu, <strong style="font-weight: 600; color: #f09228;">Rankun Li</strong>, Qi Li, Guangsheng Li, ZhengDe Ma, Hao Wang, Wenlong Liao, Shenglan Liu, Wende Xie
       <br>ICRA, 2026, submitted
-      <br><a href="/files/ICRA26_3493_MS.pdf" target="_blank">PDF</a> | <a href="https://ctbc-for-wheeled-bipedal-robots.github.io/" target="_blank">Web</a>
+      <br><a href="/files/ICRA26_3493_MS.pdf" target="_blank">PDF</a> | <a href="https://decoupled-loco-manipulation.github.io/DeLM.github.io/" target="_blank">Web</a>
     </div>
 </div>
 
