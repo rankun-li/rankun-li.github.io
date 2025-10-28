@@ -72,7 +72,7 @@ redirect_from:
       <strong style="font-size: 1em; color: #1772d0;">From Sim-to-Real to Learn-in-Real: Real-world Online Learning for Humanoid Robots</strong>
       <br><strong style="font-weight: 600; color: #f09228;">Rankun Li</strong>, Yuhang Xie, Linqing Zhu, Linqi Ye, Qingdu Li, Yan Peng
       <br>ICIRA, 2025, accepted
-      <br><a href="/files/ICIRA2025.pdf" target="_blank">PDF</a>
+      <br><a href="/files/ICIRA2025.pdf" target="_blank">PDF</a> | <a href="https://link.springer.com/chapter/10.1007/978-981-95-2098-5_44" target="_blank">Springer Nature Link</a>
     </div>
 </div>
 
