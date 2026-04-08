@@ -50,7 +50,7 @@ redirect_from:
     <div style="font-family: 'Titillium Web', sans-serif; font-size: 0.9em; display: block;">
       <strong style="font-size: 1em; color: #1772d0;">CTBC: Contact-Triggered Blind Climbing for Wheeled Bipedal Robots with Instruction Learning and Reinforcement Learning</strong>
       <br><strong style="font-weight: 600; color: #f09228;">Rankun Li</strong>, Hao Wang, Qi Li, Zhuo Han, Yifei Chu, Linqi Ye, Wende Xie, Wenlong Liao
-      <br>RA-L, 2026, submitted
+      <br>Arxiv, 2026
       <br><a href="/files/RA_L_2026.pdf" target="_blank">PDF</a> | <a href="https://ctbc-for-wheeled-bipedal-robots.github.io/" target="_blank">Web</a>
     </div>
 </div>
